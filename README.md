@@ -1,12 +1,8 @@
 - 👋 Hi, I’m Yakubu from Ghana, west Africa.
-- 👀 I am an aspiring software engineer with 
-- 🥰 A passion of creating impactful and 
-scalable web applications with using 
-latest trends and technolgies. 
-- 🔭 I admire contributing in open-source 
-projects and collaborating with commnunites. 
-- 📚 Everyday, I'm improving my skills and 
-trying to become a better version of me.
+- 👀 I am an aspiring software engineer with a passion of creating impactful and 
+scalable web applications with using latest trends and technolgies. 
+- 🔭 I admire contributing in open-source projects and collaborating with commnunites. 
+- 📚 Everyday, I'm improving my skills and trying to become a better version of me.
 - 🌱 I’m currently learning software engineering at ALX and Intro to computer science at Harvard University's CS50.
 - 💞️ I’m looking to join more tech teams
 - 📫 Please reach me on my email: yakubukarim12@gmail.com
